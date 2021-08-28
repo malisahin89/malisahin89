@@ -2,7 +2,7 @@
 <br>
 <h3 align="center">
   Hello there, I'm Muhammet Ali ŞAHİN<br>
-  I'm a Management Information Systems(MIS) student at Uludag University<br>
+  Good Luck<br>
   <hr>
 </h3>
 <h5 align="center">
