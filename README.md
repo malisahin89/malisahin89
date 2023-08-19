@@ -22,6 +22,7 @@
 
 <p align="left">
   -Backend developer<br>
+  -89 is not my birth year, just my lucky number<br>
   -PHP/Laravel framework developer<br>
   -Coding Selenium with C# and Python<br>
   -Working in web development for a long time and gained experience on many projects
