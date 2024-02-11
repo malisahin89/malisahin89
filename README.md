@@ -46,7 +46,7 @@
 				<td>
           <div align="left">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  /><img width="12" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" alt="laravel logo"  /><img width="12" />
+            <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  /><img width="12" />
           </div>
         </td>
 				<td>
