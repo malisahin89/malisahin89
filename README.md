@@ -34,36 +34,43 @@
 
 ###
 <table>
-		<thead>
-			<tr>
-				<th>Laravel</th>
-				<th>Selenium</th>
-				<th>NodeJs</th>
-			</tr>
-		</thead>
-		<tbody>
-			<tr>
-				<td>
-          <div align="left">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  /><img width="12" />
-            <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  /><img width="12" />
-          </div>
-        </td>
-				<td>
-          <div align="left">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo"  /><img width="12" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  /><img width="12" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  /><img width="12" />
-          </div>
-        </td>
-				<td>
-          <div align="left">
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  /><img width="12" />
-          </div>
-        </td>
-			</tr>
-		</tbody>
-	</table>
+    <thead>
+        <tr>
+            <th>Laravel</th>
+            <th>Selenium</th>
+            <th>NodeJs</th>
+            <th>ASP.NET Core</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>
+                <div align="left">
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" /><img width="12" />
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/laravel/laravel-original.svg" height="40" alt="laravel logo" /><img width="12" />
+                </div>
+            </td>
+            <td>
+                <div align="left">
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo" /><img width="12" />
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" /><img width="12" />
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" /><img width="12" />
+                </div>
+            </td>
+            <td>
+                <div align="left">
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" /><img width="12" />
+                </div>
+            </td>
+            <td>
+                <div align="left">
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="aspnetcore logo" /><img width="12" />
+                </div>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
 
 
 
